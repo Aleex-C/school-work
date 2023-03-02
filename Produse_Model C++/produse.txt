@@ -1,0 +1,5 @@
+2,lapte,lactate,5
+5,pate,conserva,5
+1,branza,lactate,15.34
+4,apa,bautura,25
+3,ciocolata,dulce,40
