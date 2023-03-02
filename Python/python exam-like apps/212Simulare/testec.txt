@@ -1,0 +1,3 @@
+32,Popescu,Romania,13.09.2000
+33,Mihalache, Franta, 15.10.2002
+34,Veja,Canada, 20.11.1999

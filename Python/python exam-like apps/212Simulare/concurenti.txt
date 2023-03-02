@@ -1,0 +1,6 @@
+32,Popescu,Romania,13.09.2000
+33,Mihalache, Franta, 15.10.2002
+34,Veja,Canada, 20.11.1999
+35,Mihaiut, Romania, 10.10.2008
+36, Michael, USA, 10.10.2002
+37, George   ,    USA    ,   20.10.2001  

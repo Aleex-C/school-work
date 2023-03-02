@@ -1,0 +1,5 @@
+1,black_hawk,lupta,2020
+2,barza,transport,2000
+3,HELI100, cargo, 1956
+4, HELI200,    cargo    ,   1998
+5,vultur, scouting, 2021

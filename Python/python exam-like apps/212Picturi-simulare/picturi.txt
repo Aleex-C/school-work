@@ -1,0 +1,5 @@
+1,crucificat, alex,1900
+2,carul,alex  ,2000
+3,crucea,mihai   ,2021
+4,starry night,   mihai,2200
+5, batman,       alex, 2500
