@@ -1,0 +1,9 @@
+6,123,33
+5,F&F,200
+7,Fratia,1234
+10,Kale,1234
+2,Lotr,200
+8,Lotr,205
+1,Mircea,200
+3,Narnia,300
+4,Taken,500

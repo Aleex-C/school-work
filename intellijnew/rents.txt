@@ -1,0 +1,8 @@
+1,1, 1, imprumutat
+2,2, 2, imprumutat
+3,4, 4, imprumutat
+4,10, 10, returnat
+5,10, 10, returnat
+6,6, 6, imprumutat
+7,10, 10, returnat
+8,6, 7, imprumutat
