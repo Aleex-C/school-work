@@ -1,0 +1,4 @@
+A,Paris,sejur,1000
+asd,afga,asdfg,1234
+C,suceava,lux,123
+E,sadd,qasdd,1234

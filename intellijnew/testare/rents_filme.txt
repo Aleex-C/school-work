@@ -1,3 +1,0 @@
-1,Godfather,150
-2,Jumbo,200
-3,Limbo,300
