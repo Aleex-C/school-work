@@ -30,3 +30,6 @@ Random generator (and Observer at work, for the Dynamic “Offer Type” Buttons
 ![Basic](https://i.imgur.com/U3DCtCG.png)
 Made for practice purposes regarding QT (layouts, textboxes, event-handler, ...)
 ![Basic2](https://i.imgur.com/5dRfVUh.png)
+
+# Python renting and other apps
+Console movie renting manager based on a layered architecture, CRUD operations, file handling, OOP Principles
