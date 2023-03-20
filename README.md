@@ -21,3 +21,7 @@ Wishlist window
 Random generator (and Observer at work, for the Dynamic “Offer Type” Buttons)
 
 ![Untitled](https://lapis-reason-496.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F35615324-1851-4487-9dfa-807e5b06f82d%2FUntitled.png?id=a8e511fb-7697-49a7-9efe-1b6ee26428b6&table=block&spaceId=b12a30f2-4654-4b4f-a19a-b1d5838f03b2&width=1710&userId=&cache=v2)
+# Very Basic Product Manager
+![Basic](https://i.imgur.com/U3DCtCG.png)
+Made for practice purposes regarding QT (layouts, textboxes, event-handler, ...)
+![Basic2](https://i.imgur.com/5dRfVUh.png)
