@@ -1,5 +1,10 @@
 # OOP Agentie de Turism
 
+- [OOP Agentie de Turism](#oop-agentie-de-turism)
+- [Very Basic Product Manager](#very-basic-product-manager)
+- [Python Renting and smaller apps](#python-renting-and-smaller-apps)
+
+
 ![Untitled](https://lapis-reason-496.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F645fe4d4-e41f-4018-983e-755ef77aa5c9%2FUntitled.png?id=d8f7eaa6-99e9-4db0-b5d4-eed76587a98b&table=block&spaceId=b12a30f2-4654-4b4f-a19a-b1d5838f03b2&width=2000&userId=&cache=v2)
 
 GUI Application I had to develop during my OOP class in the second semester of the first year. The points was mainly practising OOP principles, SOLID principles. working with Design Patterns (Observer, Model View Controller), CRUD, layered-architecture. I also had to deal with: memory management (pointers of all sorts, memory leaks, RAII), implementing a Dynamic Vector class (similar to the one in STL, for practice purposes), working with QT for all-stuff GUI-related.
